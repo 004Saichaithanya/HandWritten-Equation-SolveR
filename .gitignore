@@ -1,2 +1,28 @@
+# Virtual environment
+venv/
+env/
+
+# Environment variables
 .env
-ven
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit temporary files
+.streamlit/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
